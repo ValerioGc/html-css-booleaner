@@ -1,7 +1,8 @@
 *{
-    box-sizing: border-box;
     margin: 0;
-    /* font-family: 'ubuntu' sans-serif; */
+}
+body{
+    margin-left:5px;
 }
 /* Intestazione Pagina */
 header{
@@ -29,20 +30,44 @@ section {
 }
 .autore,h5{
    color:#8D8D8D;
+   margin-bottom: 15px;
 }
 .titolo{
     margin: 5px;
 }
 /* Tabella */
 table{
-    line-height: 20px;
+    text-align: center;
+}
+td{
+    width:30%;
 }
 thead{
     background-color: #4EA0FF;
+    color: #ffffff;
 }
 .col{
     background-color: #8ac0ff;
 }
 .highlight{
     background-color: yellow;
+}
+ /* FooterPagina */
+.imgfoot{
+    background-image: url(../img/monitor.jpg);
+}
+.t{
+    background-image: url(../img/graph.jpg);
+}
+.imgfoot, .t{
+    height: 150px;
+    width: 250px;
+    color: rgb(255, 255, 255);
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-bottom: 10px;
+}
+footer>h5{
+    font-size: 16px;
+    margin-bottom: 5px;
 }
