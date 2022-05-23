@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    /* font-family: 'ubuntu' sans-serif; */
+}
+/* Intestazione Pagina */
+header{
+    background-color: #4EA0FF;
+    background-image: url(../img/pattern.png);
+}
+.logo {
+    width: 15vw;
+    margin: 5vh 0 2vh 2vw;
+}
+/* Inizio corpo pagina */
+section {
+    margin-bottom: 25px;
+    margin-top: 20px;
+}
+.titolo h1{
+    font-size: 40px;
+    margin-top:15px;
+}
+#tbooleaner{
+    color: #4EA0FF;
+}
+#date,.imgfooter{
+    font-size: 12px;
+}
+.autore,h5{
+   color:#8D8D8D;
+}
+.titolo{
+    margin: 5px;
+}
+/* Tabella */
+table{
+    line-height: 20px;
+}
+thead{
+    background-color: #4EA0FF;
+}
+.col{
+    background-color: #8ac0ff;
+}
+.highlight{
+    background-color: yellow;
+}
