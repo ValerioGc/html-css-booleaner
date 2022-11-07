@@ -1,8 +1,9 @@
 *{
     margin: 0;
 }
-body{
-    margin-left:5px;
+main, footer{
+    width: 80%;
+    margin: auto;
 }
 /* Intestazione Pagina */
 header{
@@ -11,7 +12,7 @@ header{
 }
 .logo {
     width: 15vw;
-    margin: 5vh 0 2vh 2vw;
+    margin: 5vh 0 2vh 10vw;
 }
 /* Inizio corpo pagina */
 section {
@@ -20,7 +21,7 @@ section {
 }
 .titolo h1{
     font-size: 40px;
-    margin-top:15px;
+    margin-top: 15px;
 }
 #tbooleaner{
     color: #4EA0FF;
@@ -50,7 +51,7 @@ thead{
     background-color: #8ac0ff;
 }
 .highlight{
-    background-color: yellow;
+    background-color: #ffff00;
 }
  /* FooterPagina */
 .imgfoot{
@@ -62,7 +63,7 @@ thead{
 .imgfoot, .t{
     height: 150px;
     width: 250px;
-    color: rgb(255, 255, 255);
+    color: #ffffff;
     background-size: contain;
     background-repeat: no-repeat;
     margin-bottom: 10px;
