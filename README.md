@@ -20,7 +20,7 @@
 ## *_Previews:_*
 
 ![Preview gif](/previews/preview-booleaner.gif)
-![Preview thumbnails](/previews/booleaner-thumbnails-black.png)
+![Preview thumbnails](/previews/booleaner-thumbnails.png)
 
 
 --------
