@@ -38,6 +38,6 @@
   <img src="/previews/prev-booleaner3.png" alt="preview3" /> 
 
 
-</details>
+</details> 
 
 --------
